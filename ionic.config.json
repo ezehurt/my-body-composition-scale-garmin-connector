@@ -1,0 +1,7 @@
+{
+  "name": "my-scale-garmin-connector",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
